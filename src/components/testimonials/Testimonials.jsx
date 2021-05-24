@@ -1,37 +1,35 @@
-import "./testimonials.scss";
-
+import "./testimonials.scss"; 
 export default function Testimonials() {
   const data = [
     {
       id: 1,
-      name: "Tom Durden",
-      title: "Senior Developer",
-      img:
-        "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      icon: "assets/twitter.png",
+      name: "Ayoub Oufadel",
+      title: "Phd UM6P (Fondation OCP)",
+      img:"assets/oufadel",
+      icon: "assets/Twitter.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+        "A very enthusiast student engineer, never give up from learning and asking good questions.",
     },
     {
       id: 2,
-      name: "Alex Kalinski",
-      title: "Co-Founder of DELKA",
+      name: "Riad ",
+      title: "Co-Founder of CPRT",
       img:
         "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/youtube.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+        "Un élève ingénieur très dynamique, ambitionné par son domaine et polyvalent.",
       featured: true,
     },
     {
       id: 3,
-      name: "Martin Harold",
-      title: "CEO of ALBI",
+      name: "Fiver Guest",
+      title: "Freelancer",
       img:
         "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/linkedin.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
+        "Super communication, fast delivery time, always happy again. The developer understands what he is doing and I would always recommend him !",
     },
   ];
   return (
