@@ -27,7 +27,7 @@ export default function Intro() {
           <h1>OTMANE ER-RAGRAGUI</h1>
           <p> 
       
- <h4>Looking for a 2-years apprenticeship contract from September 2021.</h4>
+ <h4>A software student engineer Looking for a 2-years apprenticeship contract starts in September 2021.</h4>
 <div> </div>
  In the Major/areas of:         <div> </div>
 - Web developer preferred in Java JavaScript or C #.         <div> </div>

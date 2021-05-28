@@ -7,7 +7,7 @@ export default function Works() {
     {
       id: "1",
       icon: "./assets/mobile.png",
-      title: "Java Development, ENSAF",
+      title: "Java Developer, ENSAF",
       desc:
         "-Desktop Java Application using Java JavaFX Mysql - Dealing with QCM tests texts and videos - Doing statistics, presentation Lines, Pie, Charts - Handle more than 10 000 students.",
         img: "",
