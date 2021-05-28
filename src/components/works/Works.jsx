@@ -7,10 +7,11 @@ export default function Works() {
     {
       id: "1",
       icon: "./assets/mobile.png",
-      title: "Java Development, ENSA Fes",
+      title: "Java Development, ENSAF",
       desc:
         "-Desktop Java Application using Java JavaFX Mysql - Dealing with QCM tests texts and videos - Doing statistics, presentation Lines, Pie, Charts - Handle more than 10 000 students.",
-  },
+        img: "",
+      },
     {
       id: "2",
       icon: "./assets/globe.png",
@@ -23,7 +24,7 @@ export default function Works() {
       icon: "./assets/writing.png",
       title: "Freelancer",
       desc:
-        "- Implementation of WaterShed Algorithm in C. -Development of WordPress Websites. - Development of JavaScript Templates.- Youtube Video recording Java,Assembly etc.- Implementation of Image processing algorithms, Data compression/ decompression using binary trees, Anonymization and Pseudo- anonymization of sensitive data.-Development of Java Desktop application for inventory management, handle more than 400k Objects, Optimal implementation",
+        "-WaterShed Algorithm in C. -WordPress Websites. -JavaScript Templates.- Youtube Video recording Java,Assembly. - Image processing algorithms, Data compression  decompression using binary trees, Anonymization and Pseudoanonymization of sensitive data.-Development of Java Desktop application for inventory management, handle more than 400k Objects ",
        
     },
   ];
@@ -54,7 +55,10 @@ export default function Works() {
                 </div>
               </div>
               <div className="right">
-               
+              <img
+                  src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930"
+                  alt=""
+                />
               </div>
             </div>
           </div>
