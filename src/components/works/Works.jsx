@@ -7,29 +7,24 @@ export default function Works() {
     {
       id: "1",
       icon: "./assets/mobile.png",
-      title: "Web Design",
+      title: "Java Development, ENSA Fes",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
-      img:
-        "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
-    },
+        "-Desktop Java Application using Java JavaFX Mysql - Dealing with QCM tests texts and videos - Doing statistics, presentation Lines, Pie, Charts - Handle more than 10 000 students.",
+  },
     {
       id: "2",
       icon: "./assets/globe.png",
-      title: "Mobile Application",
+      title: "JavaScript Developer, CPRT",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      img:
-        "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
-    },
+        "- Web application for CPRT Morocco used locally - Vanilla JavaScript and Sass - Installation and management of surveillance cameras ",
+       },
     {
       id: "3",
       icon: "./assets/writing.png",
-      title: "Branding",
+      title: "Freelancer",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      img:
-        "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
+        "- Implementation of WaterShed Algorithm in C. -Development of WordPress Websites. - Development of JavaScript Templates.- Youtube Video recording Java,Assembly etc.- Implementation of Image processing algorithms, Data compression/ decompression using binary trees, Anonymization and Pseudo- anonymization of sensitive data.-Development of Java Desktop application for inventory management, handle more than 400k Objects, Optimal implementation",
+       
     },
   ];
 
@@ -55,14 +50,11 @@ export default function Works() {
                   </div>
                   <h2>{d.title}</h2>
                   <p>{d.desc}</p>
-                  <span>Projects</span>
+                  <span> <a href="https://github.com/OTMANEER" target = "_blank"> Projects</a> </span>
                 </div>
               </div>
               <div className="right">
-                <img
-                  src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930"
-                  alt=""
-                />
+               
               </div>
             </div>
           </div>
